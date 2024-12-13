@@ -1,8 +1,0 @@
-﻿  Server.cpp
-D:\New folder\socket programming\TCP Client Server\Server\Server\Server.cpp(21,17): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
-D:\New folder\socket programming\TCP Client Server\Server\Server\Server.cpp(94,18): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
-D:\New folder\socket programming\TCP Client Server\Server\Server\Server.cpp(102,23): warning C4305: 'argument': truncation from 'int' to 'u_short'
-D:\New folder\socket programming\TCP Client Server\Server\Server\Server.cpp(102,23): warning C4309: 'argument': truncation of constant value
-  Server.vcxproj -> D:\New folder\socket programming\TCP Client Server\Server\x64\Debug\Server.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
